@@ -1,0 +1,22 @@
+#main{
+    margin: 26px 16px;
+    background-color: rgb(255, 255, 255);
+    padding: 24px 32px;
+}
+.example-input .ant-input {
+    padding-right: 30px;
+    width: 230px;
+    margin: 0 8px 8px 0;
+  }
+#main-from{
+    display: flex;
+}
+#main-from div{
+    /* justify-content: space-around; */
+    flex: 1 ;
+    margin: 0 0 24px;
+}
+.ant-btn-primary{
+    margin-right: 20px;
+}
+
